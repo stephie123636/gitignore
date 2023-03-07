@@ -6,4 +6,5 @@ node_modules/
 z*
 
 Ignores a top-level directory named artifacts.
-/artificats/
+/artifacts/
+
